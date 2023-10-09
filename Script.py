@@ -29,15 +29,15 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/rdxlatestMovies>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/rdxlatestMovies>ʀᴇᴩᴏ ʟɪɴᴋ</a>.</b>"""
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Tamilan_BotsZ
+    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @rdxlatestMovies
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/rdxlatestMovies>sʜᴀʀᴀᴛʜ</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/rdxlatestMovies>@rdxlatestMovies</a>
 
 - & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
-    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Tamilan_BotsZ</b>
+    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @rdxlatestMovies</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/rdxlatestMovies>sʜᴀʀᴀᴛʜ</a></b>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/rdxlatestMovies>@rdxlatestMovies</a></b>
 
 - Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
